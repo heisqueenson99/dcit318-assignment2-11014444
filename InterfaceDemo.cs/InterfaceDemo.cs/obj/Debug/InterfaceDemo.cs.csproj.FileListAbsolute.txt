@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\bin\Debug\InterfaceDemo.cs.exe.config
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\bin\Debug\InterfaceDemo.cs.exe
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\bin\Debug\InterfaceDemo.cs.pdb
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\obj\Debug\InterfaceDemo.cs.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\obj\Debug\InterfaceDemo.cs.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\obj\Debug\InterfaceDemo.cs.exe
+C:\Users\USER\Documents\GitHub\dcit318-assignment2-11014444\InterfaceDemo.cs\InterfaceDemo.cs\obj\Debug\InterfaceDemo.cs.pdb
