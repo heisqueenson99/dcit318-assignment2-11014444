@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\GitHub\\dcit318-assignment2-11014444\\InheritanceDemo.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F99CF3A-8CD0-4EFE-BB1D-FA58803922A5}|InheritanceDemo.cs\\InheritanceDemo.cs.csproj|c:\\users\\user\\documents\\github\\dcit318-assignment2-11014444\\inheritancedemo.cs\\inheritancedemo.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F99CF3A-8CD0-4EFE-BB1D-FA58803922A5}|InheritanceDemo.cs\\InheritanceDemo.cs.csproj|solutionrelative:inheritancedemo.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\dcit318-assignment2-11014444\\InheritanceDemo.cs\\InheritanceDemo.cs\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceDemo.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\dcit318-assignment2-11014444\\InheritanceDemo.cs\\InheritanceDemo.cs\\Program.cs",
+              "RelativeToolTip": "InheritanceDemo.cs\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAxwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:22:34.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
